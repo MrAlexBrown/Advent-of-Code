@@ -1,0 +1,7 @@
+Advent of code*
+*answers*
+*.sh
+*.pyc
+temp*
+*.out
+backup*
