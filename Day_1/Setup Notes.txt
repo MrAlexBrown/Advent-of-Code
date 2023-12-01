@@ -1,0 +1,2 @@
+tsc Day_1_Challenge_1.ts to compile
+node Day_1_Challenge_1.js to run
